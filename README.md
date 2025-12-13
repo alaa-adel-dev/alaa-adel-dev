@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Alaa Adel
 
-I'm a **Full Stack Developer** with a strong passion for building scalable, clean, and efficient applications. I specialize in both **Backend** and **Frontend** development using modern technologies.
+I'm a **Mid-Level Full Stack Developer** with a strong passion for building scalable, clean, and efficient applications. I specialize in both **Backend** and **Frontend** development using modern technologies.
 ---
 ## 🧠 Tech Stack
 
