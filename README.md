@@ -50,9 +50,9 @@ I'm a **Mid-Level Full Stack Developer** with a strong passion for building scal
 ---
 
 ### 📬 Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/alaaadeln7/)
-- 📨 Email: alaaadeln7@gmail.com
-- 🧠 Portfolio (Coming soon...)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alaa-adel-dev)
+- 📨 Email: alaa.adel.dev@gmail.com
+- 🧠 [Portfolio](https://alaaadel.com)
 
 ---
 
