@@ -95,9 +95,9 @@ My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time 
 
 ---
 
-## 📚 AI & Machine Learning Course Topics
+## 🧠 AI & Machine Learning Skills
 
-- **Python & data handling:** Python fundamentals, modules and packages, regular expressions, text files, web scraping, SQL/NoSQL databases, APIs, and Excel/CSV files.
+- **Python & data handling:** Modules and packages, regular expressions, file processing, web scraping, SQL/NoSQL databases, APIs, and Excel/CSV data processing.
 - **LLMs & generative AI:** GPT, DeepSeek, Llama, prompt engineering, local model inference, LLM fine-tuning, and practical applications with Transformers.
 - **Data analysis:** Statistics, Pandas, Matplotlib, Seaborn, customer behavior analysis, and sales and marketing data analysis.
 - **AI agents:** Pydantic AI, Model Context Protocol (MCP), tool integration, appointment management, customer support, and Telegram agents.
