@@ -60,7 +60,6 @@ My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Deployment:** Docker Compose, Ubuntu servers, AWS and Google Cloud VMs, SSL, reverse proxies, and automated deployments.
 
