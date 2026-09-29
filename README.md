@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Alaa Adel
 
-I'm a **Full Stack & DevOps Engineer** with around **4 years of experience** building web applications, APIs, and SaaS platforms. I work across **Backend**, **Frontend**, and **Deployment**, with a focus on scalable systems, clean code, and practical business needs.
+I'm a **Software Engineer** with around **4 years of experience** building web applications, APIs, and SaaS platforms. I work across **AI & Machine Learning**, **Backend**, **Frontend**, and **DevOps**, with a focus on scalable systems, clean code, and practical business needs.
 
 My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time applications**, and integrations with payment gateways and third-party platforms.
 
@@ -112,7 +112,7 @@ My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time 
 
 ## 🚀 I’m Open To
 
-- Full Stack, Backend, and DevOps opportunities.
+- Software Engineering, Applied AI, Full Stack, Backend, and DevOps opportunities.
 - SaaS development, AI integrations, and backend-heavy systems.
 - Freelance projects and long-term collaboration with international teams.
 - Open-source contributions.
