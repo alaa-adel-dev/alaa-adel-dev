@@ -50,6 +50,11 @@ My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time 
 
 ### 🧰 Tools & DevOps
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -69,7 +74,7 @@ My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time 
 - **AI & real-time systems:** LLM integration, RAG, WebSockets, speech-to-text, text-to-speech, and AI voice agent pipelines.
 - **Third-party integrations:** Meta/WhatsApp, Slack, Google Calendar, payment gateways, and webhooks.
 - **Frontend engineering:** Responsive dashboards, reusable components, design systems, and Arabic/English interfaces.
-- **DevOps:** CI/CD pipelines, containerized deployments, Nginx configuration, and deployment troubleshooting.
+- **Cloud & DevOps:** AWS, Azure, GCP, Kubernetes, CI/CD pipelines, containerized deployments, Nginx configuration, and deployment troubleshooting.
 - **Code quality:** Clean code, SOLID principles, feature-based modules, and testing with Jest.
 
 ---
