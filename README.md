@@ -48,6 +48,13 @@ My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time 
 
 **Tools:** Prisma, ARQ workers, caching, and scheduled jobs.
 
+### 🤖 AI & Machine Learning
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge)
+
+**Applied AI:** LLM integration, prompt engineering, RAG, AI voice agents, speech-to-text, and text-to-speech.
+
 ### 🧰 Tools & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
@@ -60,6 +67,7 @@ My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Deployment:** Docker Compose, Ubuntu servers, AWS and Google Cloud VMs, SSL, reverse proxies, and automated deployments.
 
@@ -84,6 +92,21 @@ My recent work includes **multi-tenant SaaS**, **AI voice agents**, **real-time 
 - **AI voice agents:** Working on speech pipelines, conversation handling, and business integrations.
 - **Client platforms:** Developing dashboards, customer engagement systems, and real-time service applications.
 - **Engineering growth:** Deepening my knowledge of system design, distributed systems, security, and testing strategies.
+
+---
+
+## 📚 AI & Machine Learning Course Topics
+
+- **Python & data handling:** Python fundamentals, modules and packages, regular expressions, text files, web scraping, SQL/NoSQL databases, APIs, and Excel/CSV files.
+- **LLMs & generative AI:** GPT, DeepSeek, Llama, prompt engineering, local model inference, LLM fine-tuning, and practical applications with Transformers.
+- **Data analysis:** Statistics, Pandas, Matplotlib, Seaborn, customer behavior analysis, and sales and marketing data analysis.
+- **AI agents:** Pydantic AI, Model Context Protocol (MCP), tool integration, appointment management, customer support, and Telegram agents.
+- **Machine learning:** NumPy, scikit-learn, regression, classification, logistic regression, Naive Bayes, decision trees, K-nearest neighbors, support vector machines, clustering, and model evaluation.
+- **Business applications:** Product recommendations, association analysis, time-series sales forecasting, and integrating models into applications through APIs.
+- **Deep learning:** Artificial neural networks (ANNs), convolutional neural networks (CNNs), recurrent neural networks (RNNs), and applications in prediction, image recognition, and text classification.
+- **Computer vision:** OpenCV, YOLO, image classification, object recognition, and vision model fine-tuning.
+- **NLP & transfer learning:** Text representation, word embeddings, embedding model fine-tuning, sentiment analysis, Arabic tweet classification, spam detection, and binary/multiclass image classification.
+- **Reinforcement learning:** Gymnasium, deep reinforcement learning, and practical environments involving games, navigation, and robotics.
 
 ---
 
