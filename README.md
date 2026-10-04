@@ -206,9 +206,9 @@ My recent work includes **multi-tenant SaaS platforms**, **AI voice agents**, **
 
 ## 📊 GitHub Stats
 
-![Alaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Alaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alaa-adel-dev&show_icons=true&theme=tokyonight)
 
-![Alaa's GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Alaa's GitHub Streak](https://streak-stats.demolab.com/?user=alaa-adel-dev&theme=tokyonight)
 
 ---
 
